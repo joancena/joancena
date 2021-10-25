@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @joancena
+- 👋 Hi
 - 👀 This profile has been moved to https://github.com/aliasgar55.
 
 <!---
